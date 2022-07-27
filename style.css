@@ -15,7 +15,7 @@
 }
 
 .qr-code {
-    width: 370px;
+    width: 320px;
     padding: 20px;
     background-color: hsl(0, 0%, 100%);
     border-radius: 30px;
@@ -29,7 +29,7 @@ img {
 
 h1 {
     color: hsl(218, 44%, 22%);
-    font-size: 26px;
+    font-size: 22px;
     line-height: 1.2;
     text-align: center;
     font-family: 'Outfit', sans-serif;
@@ -38,7 +38,7 @@ h1 {
 
 p {
     color: hsl(220, 15%, 55%);
-    font-size: 20px;
+    font-size: 15px;
     text-align: center;
     line-height: 1.5;
     font-family: 'Outfit', sans-serif;
